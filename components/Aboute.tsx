@@ -44,7 +44,7 @@ const Aboute = ({}: Props) => {
             <h4 className="text-4xl font-semibold">
                 Her is a <span className="underline decoration-[#f7ab0a]">letle</span> backround
             </h4>
-            <p className="text-sm">👨‍💻 Jeune développeur passionné par le code et l'innovation, je jongle entre lignes de code et idées créatives pour construire l'avenir numérique. 🚀💻 En quête constante de défis, je m'efforce d'apprendre et de grandir dans le monde dynamique du développement. #CodeLife 🌐 Explorateur de nouvelles technologies et créateur de solutions informatiques novatrices</p>
+            <p className="text-sm">👨‍💻 Jeune développeur passionné par le code et l&apos;innovation, je jongle entre lignes de code et idées créatives pour construire l&apos;avenir numérique. 🚀💻 En quête constante de défis, je m&apos;efforce d&apos;apprendre et de grandir dans le monde dynamique du développement. #CodeLife 🌐 Explorateur de nouvelles technologies et créateur de solutions informatiques novatrices</p>
         </div>
         </motion.div>
     )
